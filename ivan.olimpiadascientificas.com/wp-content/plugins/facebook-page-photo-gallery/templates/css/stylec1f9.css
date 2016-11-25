@@ -1,0 +1,45 @@
+/* --------------------------------Album--------------------*/
+
+.fb-PhotoThumbWrap          {display: inline-block; margin:5px;}
+.fb-PhotoThumbLink          {background: white;
+                             border: 1px solid #CCC;
+                             display: -moz-inline-box;
+                             display: inline-block;
+                             outline: none;
+                             padding: 4px;
+                             position: relative;
+                             vertical-align: bottom;
+                             cursor: pointer;
+                             color: #3B5998;
+                             box-shadow: 1px 1px 5px #ccc;
+                             -moz-box-shadow:1px 1px 5px #ccc;
+                             -webkit-box-shadow:1px 1px 5px #ccc;
+                             -moz-outline-style: none;
+                             text-decoration: none;}
+.fb-PhotoThumbLink i      {background-color: #EEE;
+                           background-position: center 25%;
+                           background-repeat: no-repeat;
+                           display: block;
+
+}
+.fb-PhotoSmallThumb i   {width:120px;
+                         height:80px} 
+.fb-PhotoMediumThumb i   {width:161px;
+                          height:120px} 
+.fb-PhotoLargeThumb i   {width:206px;
+                         height:206px} 
+
+.fb-BottomBar       {width:100%; 
+                     display:block;
+                     background-color: #EDEFF4;
+                     border: 1px solid #D8DFEA;
+                     text-align: center;
+                     height:30px;
+                     line-height: 30px;
+                     cursor:pointer;
+
+
+}
+.fb-Loadmore {color:#3B5998;}
+.fb-Loadmore img{margin: 0 5px;}
+.fb-loader                  {display: block; text-align: center;}

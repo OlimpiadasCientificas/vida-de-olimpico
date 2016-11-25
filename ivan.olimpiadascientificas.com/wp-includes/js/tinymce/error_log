@@ -1,0 +1,1 @@
+[15-Aug-2012 18:47:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_my_taxonomies' not found or invalid function name in /home2/centraz1/public_html/olimpiadascientificas/wp-includes/plugin.php on line 403

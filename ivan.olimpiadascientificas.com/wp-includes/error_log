@@ -1,0 +1,7 @@
+[23-Apr-2013 22:59:59 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home2/centraz1/public_html/olimpiadascientificas/wp-includes/functions.php on line 8
+[23-Apr-2013 22:59:59 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home2/centraz1/public_html/olimpiadascientificas/wp-includes/functions.php on line 8
+[23-Apr-2013 22:59:59 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/php/53/usr/lib64:/usr/php/53/usr/share/pear') in /home2/centraz1/public_html/olimpiadascientificas/wp-includes/functions.php on line 8
+[23-Apr-2013 23:00:14 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home2/centraz1/public_html/olimpiadascientificas/wp-includes/functions.php on line 8
+[23-Apr-2013 23:00:14 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home2/centraz1/public_html/olimpiadascientificas/wp-includes/functions.php on line 8
+[23-Apr-2013 23:00:14 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/php/53/usr/lib64:/usr/php/53/usr/share/pear') in /home2/centraz1/public_html/olimpiadascientificas/wp-includes/functions.php on line 8
+[16-Jul-2013 12:50:10 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/centraz1/public_html/olimpiadascientificas/wp-includes/registration-functions.php on line 7
