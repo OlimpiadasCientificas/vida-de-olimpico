@@ -1,0 +1,709 @@
+HTTrack3.48-21 launched on Thu, 24 Nov 2016 21:29:08 at http://estudo.olimpiadascientificas.com/ http://vitoria.olimpiadascientificas.com/ http://leticia.olimpiadascientificas.com/ http://rob.olimpiadascientificas.com/ http://cassio.olimpiadascientificas.com/ http://marcio.olimpiadascientificas.com/ http://liara.olimpiadascientificas.com/ http://davic.olimpiadascientificas.com/ http://lara.olimpiadascientificas.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -*.php -*/uploads/* -*uploads -*/uploads -/uploads/* -*/feed/* -*/feed* -*/oembed/* -/oembed/* -*/oembed/ -*/oembed* -*replyto*
+(webhttrack -q -%i -iC1 http://estudo.olimpiadascientificas.com/ http://vitoria.olimpiadascientificas.com/ http://leticia.olimpiadascientificas.com/ http://rob.olimpiadascientificas.com/ http://cassio.olimpiadascientificas.com/ http://marcio.olimpiadascientificas.com/ http://liara.olimpiadascientificas.com/ http://davic.olimpiadascientificas.com/ http://lara.olimpiadascientificas.com/ -O "/home/ivanaf/websites/ivan.olimpiadascientificas.noupload" -%P -p7 -N0 -s2 -%q -p7 -D -a -K0 -c3 -%k -H1 -R3 -A1000000 -%c0.2 -#L800000 -F "Mozilla/5.0 (X11; Kubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/48.0" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -*.php -*/uploads/* -*uploads -*/uploads -/uploads/* -*/feed/* -*/feed* -*/oembed/* -/oembed/* -*/oembed/ -*/oembed* -*replyto* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:29:08	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+21:29:08	Warning: 	Cache: damaged cache, trying to repair
+21:29:08	Warning: 	Cache: 223168 bytes successfully recovered in 174 entries
+21:29:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/tea-time-in-the-garden.jpg
+21:29:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/brasileiros.jpg
+21:29:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/brasileiros-300x200.jpg
+21:29:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/gala.jpg
+21:29:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/gala-300x225.jpg
+21:29:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/10304343_710021059043495_841249233703094381_n.jpg
+21:29:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/10304343_710021059043495_841249233703094381_n-225x300.jpg
+21:29:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/14235964109_d23399c546.jpg
+21:30:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/14235964109_d23399c546-300x198.jpg
+21:30:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/catedral.jpg
+21:30:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/catedral-300x199.jpg
+21:30:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/brazil.jpg
+21:30:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/brazil-300x201.jpg
+21:30:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/04/10246802_870807272944979_7095875297540538510_n.jpg
+21:30:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/04/10246802_870807272944979_7095875297540538510_n-300x200.jpg
+21:30:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/04/DSCF8292.jpg
+21:30:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/04/10177237_870808466278193_2578219026040177860_n.jpg
+21:30:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/04/10177237_870808466278193_2578219026040177860_n-300x200.jpg
+21:31:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/04/DSC00092.jpg
+21:31:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/04/DSCF8349.jpg
+21:31:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/03/1924751_759074467450548_1512207950_n.jpg
+21:31:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/03/1924751_759074467450548_1512207950_n-300x225.jpg
+21:31:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/wp-content/plugins/network-latest-posts/css/default_style.css?ver=4.4.2
+21:31:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/wp-content/plugins/post-ratings/post-ratings.js?ver=2.4
+21:32:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/wp-includes/js/wp-embed.min.js?ver=4.4.2
+21:32:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1
+21:32:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-includes/js/jquery/jquery.js?ver=1.11.3
+21:32:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+21:32:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/js/superfish.js?ver=4.4.2
+21:32:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/css/default.css
+21:32:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/images/olimpiadascientificas.png
+21:32:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/images/bonecooc.png
+21:32:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/jquery.tabify_mod.js
+21:32:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/OBB-parquinho.jpg
+21:33:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/OBB-parquinho-300x225.jpg
+21:33:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/Parquinho-2.jpg
+21:33:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/Parquinho-2-300x225.jpg
+21:33:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/OBB-pizzas.jpg
+21:33:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/OBB-pizzas-300x225.jpg
+21:33:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/Cachorro-gordo.jpg
+21:33:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/Cachorro-gordo-300x134.jpg
+21:33:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/Augusto-OBB.jpg
+21:33:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/Augusto-OBB-300x168.jpg
+21:33:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/IMG-20140601-WA0019.jpg
+21:33:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/IMG-20140601-WA0019-300x225.jpg
+21:33:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/IMG-20140601-WA0018.jpg
+21:34:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/IMG-20140601-WA0018-300x225.jpg
+21:34:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/IMG-20140601-WA0002.jpg
+21:34:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/IMG-20140601-WA0002-300x225.jpg
+21:34:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/IMG-20140601-WA0020.jpg
+21:34:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/IMG-20140601-WA0020-300x225.jpg
+21:34:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/OBB-1.jpg
+21:34:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/OBB-1-300x168.jpg
+21:34:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/OBB-2.jpg
+21:34:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/06/OBB-2-300x168.jpg
+21:34:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/04/IYPT-medalha.jpg
+21:34:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2014/04/IYPT-medalha-300x168.jpg
+21:34:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2013/12/a1.jpg
+21:35:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2013/12/a1-300x224.jpg
+21:35:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2013/12/a3.jpg
+21:35:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2013/12/a3-300x225.jpg
+21:35:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2013/12/a2.jpg
+21:35:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2013/12/a2-300x225.jpg
+21:35:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2013/12/a4.jpg
+21:35:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2013/12/a4-300x225.jpg
+21:35:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2013/12/leticia-dubai.jpg
+21:35:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/files/2013/12/leticia-dubai-300x225.jpg
+21:35:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-includes/images/smilies/simple-smile.png
+21:36:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/plugins/network-latest-posts/css/default_style.css?ver=4.4.2
+21:36:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-includes/js/wp-embed.min.js?ver=4.4.2
+21:36:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1
+21:36:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-includes/js/jquery/jquery.js?ver=1.11.3
+21:36:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+21:36:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/js/superfish.js?ver=4.4.2
+21:36:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-content/themes/blogsoc/css/default.css
+21:37:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-content/themes/blogsoc/images/olimpiadascientificas.png
+21:37:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-content/themes/blogsoc/images/bonecooc.png
+21:37:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-content/themes/blogsoc/jquery.tabify_mod.js
+21:37:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-includes/images/smilies/simple-smile.png
+21:37:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/files/2013/06/prof.-layton-and-luke.jpg
+21:37:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/files/2013/06/prof.-layton-and-luke-300x261.jpg
+21:37:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-includes/js/wp-embed.min.js?ver=4.4.2
+21:38:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1
+21:38:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-includes/js/jquery/jquery.js?ver=1.11.3
+21:38:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/js/superfish.js?ver=4.4.2
+21:38:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/css/default.css
+21:38:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/olimpiadascientificas.png
+21:38:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/bonecooc.png
+21:38:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/jquery.tabify_mod.js
+21:38:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/files/2014/01/OBB_vetorizado_OC.fw_.png
+21:39:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-includes/js/wp-embed.min.js?ver=4.4.2
+21:39:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.18.1
+21:39:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.4.2
+21:39:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4
+21:39:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1
+21:39:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/jquery/jquery.js?ver=1.11.3
+21:39:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+21:40:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/js/superfish.js?ver=4.4.2
+21:40:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/_inc/spin.js?ver=1.3
+21:40:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/_inc/jquery.spin.js?ver=1.3
+21:40:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/css/default.css
+21:40:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/olimpiadascientificas.png
+21:40:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/bonecooc.png
+21:40:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/jquery.tabify_mod.js
+21:41:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.js?ver=20140505
+21:41:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1
+21:41:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.4.2
+21:41:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/wp-embed.min.js?ver=4.4.2
+21:42:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4
+21:42:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1
+21:42:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-includes/js/jquery/jquery.js?ver=1.11.3
+21:42:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+21:42:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/js/superfish.js?ver=4.4.2
+21:42:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/themes/blogsoc/css/default.css
+21:42:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/themes/blogsoc/images/olimpiadascientificas.png
+21:42:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/themes/blogsoc/images/bonecooc.png
+21:42:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/themes/blogsoc/jquery.tabify_mod.js
+21:43:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2013/08/Photo-on-8-2-13-at-2.37-AM-2.jpg
+21:43:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2013/08/2_0_equipe.jpg
+21:43:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-includes/images/smilies/frownie.png
+21:43:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-includes/images/smilies/simple-smile.png
+21:43:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2013/08/abertura.jpg
+21:43:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2013/08/soliton-rules.jpg
+21:43:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2013/08/nois.jpg
+21:43:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/09/Photo-on-9-23-12-at-2.37-PM-300x199.jpg
+21:43:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/09/Photo-on-9-23-12-at-7.27-AM.jpg
+21:43:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/09/Photo-on-9-23-12-at-7.27-AM-300x199.jpg
+21:43:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/09/Photo-on-9-16-12-at-7.54-AM-2.jpg
+21:43:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/09/Photo-on-9-16-12-at-7.54-AM-2-300x199.jpg
+21:44:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/09/Photo-on-9-15-12-at-2.44-PM.jpg
+21:44:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/09/Photo-on-9-15-12-at-2.44-PM-300x199.jpg
+21:44:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/bico-05.jpg
+21:44:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/bico-05-300x225.jpg
+21:44:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/bico-06.jpg
+21:44:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/zurichsee-2.jpg
+21:44:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Zurichsee1.jpg
+21:44:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Zurichsee1-300x200.jpg
+21:44:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/FIFA1-300x200.jpg
+21:44:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Taça-do-mundo1-300x200.jpg
+21:45:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Elevador1.jpg
+21:45:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Elevador1-300x200.jpg
+21:45:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Paisagem1.jpg
+21:45:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Paisagem1-300x200.jpg
+21:45:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Indo-pra-Lucerna1-300x200.jpg
+21:45:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Lucerna1.jpg
+21:45:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Lucerna1-300x200.jpg
+21:45:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Abelha1.jpg
+21:45:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Abelha1-300x189.jpg
+21:45:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Em-cima-do-monte1.jpg
+21:45:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Em-cima-do-monte1-300x200.jpg
+21:45:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/De-cima-do-monte1.jpg
+21:46:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/De-cima-do-monte1-300x200.jpg
+21:46:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Paraglider1.jpg
+21:46:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Paraglider1-300x200.jpg
+21:46:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Indo-para-a-queda-dágua1.jpg
+21:46:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Indo-para-a-queda-dágua1-300x225.jpg
+21:46:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Queda-dágua1.jpg
+21:46:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Queda-dágua1-300x200.jpg
+21:46:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Queda-dágua-31.jpg
+21:46:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Queda-dágua-31-300x256.jpg
+21:46:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Queda-dágua-41.jpg
+21:46:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Queda-dágua-41-300x200.jpg
+21:46:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Rio-suíça1.jpg
+21:47:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Rio-suíça1-300x225.jpg
+21:47:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Rio1.jpg
+21:47:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Rio1-300x225.jpg
+21:47:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Molhados-depois-de-entrar-na-água1.jpg
+21:47:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Molhados-depois-de-entrar-na-água1-300x200.jpg
+21:47:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Zurich-21.jpg
+21:47:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Zurich-21-e1344816797657-225x300.jpg
+21:47:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Foto-minha-tirando-foto1.jpg
+21:47:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Foto-minha-tirando-foto1-300x225.jpg
+21:47:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Zurich1.jpg
+21:47:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Zurich1-300x200.jpg
+21:48:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Homenagem-ao-Hugo-e-ao-Vignon1.jpg
+21:48:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Homenagem-ao-Hugo-e-ao-Vignon1-300x225.jpg
+21:48:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Bicicleta.jpg
+21:48:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Bicicleta-300x200.jpg
+21:48:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Parque-legal.jpg
+21:48:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/Parque-legal-300x200.jpg
+21:48:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/bicicleta-02.jpg
+21:48:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/bicicleta-02-300x200.jpg
+21:49:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.4.2
+21:49:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-includes/js/wp-embed.min.js?ver=4.4.2
+21:49:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1
+21:49:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-includes/js/jquery/jquery.js?ver=1.11.3
+21:49:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+21:49:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/js/superfish.js?ver=4.4.2
+21:49:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-content/themes/blogsoc/css/default.css
+21:49:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-content/themes/blogsoc/images/olimpiadascientificas.png
+21:49:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-content/themes/blogsoc/images/bonecooc.png
+21:49:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-content/themes/blogsoc/jquery.tabify_mod.js
+21:50:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-includes/images/smilies/simple-smile.png
+21:50:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/files/2012/07/IMG_1102.jpg
+21:50:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-includes/js/wp-embed.min.js?ver=4.4.2
+21:51:08	Warning: 	Retry after error -4 (No data (connection closed)) at link estudo.olimpiadascientificas.com/2015/01/27/5-dicas-valiosas-para-um-bom-treinamento-olimpico/ (from estudo.olimpiadascientificas.com/)
+21:53:35	Error: 	"Not Found" (404) at link vitoria.olimpiadascientificas.com/wp-json/ (from vitoria.olimpiadascientificas.com/)
+21:55:01	Warning: 	Retry after error -4 (No data (connection closed)) at link vitoria.olimpiadascientificas.com/2013/07/ (from vitoria.olimpiadascientificas.com/)
+21:55:06	Warning: 	Retry after error -4 (No data (connection closed)) at link vitoria.olimpiadascientificas.com/category/onhb/ (from vitoria.olimpiadascientificas.com/)
+21:55:16	Warning: 	Retry after error -4 (No data (connection closed)) at link vitoria.olimpiadascientificas.com/tag/2014/ (from vitoria.olimpiadascientificas.com/)
+21:56:22	Error: 	"Not Found" (404) at link leticia.olimpiadascientificas.com/wp-json/ (from leticia.olimpiadascientificas.com/)
+21:57:49	Error: 	"Not Found" (404) at link rob.olimpiadascientificas.com/wp-json/ (from rob.olimpiadascientificas.com/)
+21:58:40	Warning: 	Retry after error -4 (No data (connection closed)) at link rob.olimpiadascientificas.com/tag/ano-novo/ (from rob.olimpiadascientificas.com/)
+22:01:21	Warning: 	Retry after error -4 (No data (connection closed)) at link cassio.olimpiadascientificas.com/2014/01/17/mas-havera-mesmo-obb-em-2014/ (from cassio.olimpiadascientificas.com/)
+22:01:26	Warning: 	Retry after error -4 (No data (connection closed)) at link cassio.olimpiadascientificas.com/2014/01/02/um-pouco-sobre-musica-pop-e-billboard/ (from cassio.olimpiadascientificas.com/)
+22:03:19	Warning: 	Retry after error -4 (No data (connection closed)) at link marcio.olimpiadascientificas.com/historico/ (from marcio.olimpiadascientificas.com/)
+22:03:55	Warning: 	Retry after error -4 (No data (connection closed)) at link marcio.olimpiadascientificas.com/2013/02/15/timidez/ (from marcio.olimpiadascientificas.com/)
+22:06:02	Warning: 	Retry after error -4 (No data (connection closed)) at link liara.olimpiadascientificas.com/2012/09/23/kinda-sad-liara-is-kinda-sad/ (from liara.olimpiadascientificas.com/)
+22:06:02	Warning: 	Retry after error -4 (No data (connection closed)) at link liara.olimpiadascientificas.com/2012/09/16/espanha-here-i-am/ (from liara.olimpiadascientificas.com/)
+22:07:08	Warning: 	Retry after error -4 (No data (connection closed)) at link liara.olimpiadascientificas.com/category/sem-categoria/ (from liara.olimpiadascientificas.com/)
+22:07:24	Warning: 	Retry after error -4 (No data (connection closed)) at link davic.olimpiadascientificas.com/2012/07/05/origens-parte-2/ (from davic.olimpiadascientificas.com/)
+22:07:29	Warning: 	Retry after error -4 (No data (connection closed)) at link davic.olimpiadascientificas.com/2012/12/ (from davic.olimpiadascientificas.com/)
+22:08:04	Warning: 	Retry after error -4 (No data (connection closed)) at link estudo.olimpiadascientificas.com/tag/math/ (from estudo.olimpiadascientificas.com/2015/03/08/hmmt-uma-olimpiada-de-matematica-desafiadora-divertida-diferente/)
+22:08:40	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=228
+22:08:40	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=228 to http://vitoria.olimpiadascientificas.com/2015/03/15/canada/
+22:08:45	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=221
+22:08:45	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=221 to http://vitoria.olimpiadascientificas.com/2015/02/15/o-que-eu-fiz-no-ultimo-semestre-jornada-espacial-e-application/
+22:08:45	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=208
+22:08:45	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=208 to http://vitoria.olimpiadascientificas.com/2014/08/10/208/
+22:08:45	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=160
+22:08:45	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=160 to http://vitoria.olimpiadascientificas.com/2014/06/15/160/
+22:08:50	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=156
+22:08:50	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=156 to http://vitoria.olimpiadascientificas.com/2014/06/07/myc/
+22:08:50	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=149
+22:08:50	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=149 to http://vitoria.olimpiadascientificas.com/2014/05/28/ansiedade/
+22:08:50	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=138
+22:08:50	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=138 to http://vitoria.olimpiadascientificas.com/2014/05/11/um-ano-que-passou-e-a-melhor-mafia-do-mundo/
+22:08:55	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=129
+22:08:55	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=129 to http://vitoria.olimpiadascientificas.com/2014/04/17/iypt-over-the-river-and-through-the-woods/
+22:08:55	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=123
+22:08:55	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=123 to http://vitoria.olimpiadascientificas.com/2014/03/23/123/
+22:08:55	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=118
+22:08:55	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=118 to http://vitoria.olimpiadascientificas.com/2014/03/01/um-mes-maravilhosamente-ocupado-e-uma-semana-de-liberdade/
+22:09:31	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=135
+22:09:31	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=135 to http://leticia.olimpiadascientificas.com/2014/06/07/alem-dos-jalecos-parte-2/
+22:09:36	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=130
+22:09:36	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=130 to http://leticia.olimpiadascientificas.com/2014/06/01/alem-dos-jalecos-parte-1/
+22:09:36	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=125
+22:09:36	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=125 to http://leticia.olimpiadascientificas.com/2014/04/14/iypt-efeitos-colaterais-da-participacao/
+22:09:36	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=118
+22:09:36	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=118 to http://leticia.olimpiadascientificas.com/2014/03/02/como-as-coisas-mudam-tanto-em-tao-pouco-tempo/
+22:09:41	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=113
+22:09:41	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=113 to http://leticia.olimpiadascientificas.com/2014/01/21/cursos-decisoes-e-obb/
+22:09:41	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=104
+22:09:41	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=104 to http://leticia.olimpiadascientificas.com/2013/12/20/acabou/
+22:09:41	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=100
+22:09:41	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=100 to http://leticia.olimpiadascientificas.com/2013/11/24/o-que-fazer-quando-falta-menos-de-uma-semana/
+22:09:46	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=96
+22:09:46	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=96 to http://leticia.olimpiadascientificas.com/2013/11/05/96/
+22:09:46	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=90
+22:09:46	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=90 to http://leticia.olimpiadascientificas.com/2013/10/11/milhares-de-coisas/
+22:09:46	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=87
+22:09:46	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=87 to http://leticia.olimpiadascientificas.com/2013/09/05/pessoas-novas/
+22:10:21	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=90
+22:10:21	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=90 to http://rob.olimpiadascientificas.com/2014/03/08/ocupado/
+22:10:21	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=85
+22:10:21	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=85 to http://rob.olimpiadascientificas.com/2013/12/18/nao-pensei-num-titulo-legal-para-essa-postagem/
+22:10:26	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=71
+22:10:26	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=71 to http://rob.olimpiadascientificas.com/2013/05/11/decepcao/
+22:10:26	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=83
+22:10:26	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=83 to http://rob.olimpiadascientificas.com/2013/09/01/esperancoso/
+22:10:26	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=74
+22:10:26	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=74 to http://rob.olimpiadascientificas.com/2013/06/26/a-gentleman-leaves-no-puzzle-undone/
+22:10:31	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=65
+22:10:31	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=65 to http://rob.olimpiadascientificas.com/2013/05/09/oba-e-diretamente-proporcional-a-minha-ansiedade/
+22:10:31	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=61
+22:10:31	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=61 to http://rob.olimpiadascientificas.com/2013/04/19/semana-de-provas/
+22:10:31	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=56
+22:10:31	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=56 to http://rob.olimpiadascientificas.com/2013/03/03/otima-viagem/
+22:10:37	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=52
+22:10:37	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=52 to http://rob.olimpiadascientificas.com/2013/02/18/ola-galera-2/
+22:10:37	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=48
+22:10:37	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=48 to http://rob.olimpiadascientificas.com/2013/01/02/ano-novo/
+22:10:42	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/page/2/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/page/2/)
+22:10:52	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=153
+22:10:52	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=153 to http://cassio.olimpiadascientificas.com/sobre-mim/
+22:10:52	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=436
+22:10:52	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=436 to http://cassio.olimpiadascientificas.com/historico/
+22:10:52	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=201
+22:10:52	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=201 to http://cassio.olimpiadascientificas.com/midia/
+22:10:57	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=442
+22:10:57	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=442 to http://cassio.olimpiadascientificas.com/portfolio/
+22:10:57	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/portfolio/barbara.olimpiadascientificas.com (from cassio.olimpiadascientificas.com/portfolio/)
+22:10:57	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/portfolio/www.olimpiadascientificas.com (from cassio.olimpiadascientificas.com/portfolio/)
+22:11:02	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/portfolio/twitter.com/cassiossousa (from cassio.olimpiadascientificas.com/portfolio/)
+22:11:02	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=306
+22:11:02	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=306 to fotos/
+22:11:02	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=236
+22:11:02	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=236 to http://cassio.olimpiadascientificas.com/melhores-momentos/
+22:11:07	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=20
+22:11:07	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=20 to http://cassio.olimpiadascientificas.com/2013/01/04/ah-o-cob/
+22:11:27	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=14
+22:11:27	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=14 to http://cassio.olimpiadascientificas.com/2013/01/05/olimpiadas-para-universitarios/
+22:11:42	Warning: 	Retry after error -4 (No data (connection closed)) at link cassio.olimpiadascientificas.com/tag/oc/ (from cassio.olimpiadascientificas.com/2013/01/05/olimpiadas-para-universitarios/)
+22:11:57	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=483
+22:11:57	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=483 to http://cassio.olimpiadascientificas.com/2013/06/21/laboratorio-estudar/
+22:12:13	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=385
+22:12:13	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=385 to http://cassio.olimpiadascientificas.com/2013/10/11/como-funcionam-os-saltos-laboratorio-estudar/
+22:12:28	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=493
+22:12:28	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=493 to http://cassio.olimpiadascientificas.com/2013/06/28/sudoku/
+22:12:38	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=528
+22:12:38	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=528 to http://cassio.olimpiadascientificas.com/um-pouco-do-passado/
+22:12:43	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=77
+22:12:43	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=77 to http://cassio.olimpiadascientificas.com/2013/01/10/um-pouco-do-passado-opm/
+22:12:53	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=523
+22:12:53	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=523 to http://cassio.olimpiadascientificas.com/2013/07/30/um-pouco-do-passado-opf/
+22:12:58	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=584
+22:12:58	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=584 to http://cassio.olimpiadascientificas.com/2013/09/24/um-pouco-do-passado-iypt/
+22:12:58	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/2013/09/24/um-pouco-do-passado-iypt/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/2013/09/24/um-pouco-do-passado-iypt/)
+22:13:49	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=686
+22:13:49	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=686 to http://cassio.olimpiadascientificas.com/2014/01/28/novo-oc/
+22:13:59	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=663
+22:13:59	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=663 to http://cassio.olimpiadascientificas.com/2013/12/31/retrospectiva-2013-e-1-ano-de-blog/
+22:14:09	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=645
+22:14:09	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=645 to http://cassio.olimpiadascientificas.com/2013/12/21/um-tributo/
+22:14:14	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=646
+22:14:14	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=646 to http://cassio.olimpiadascientificas.com/2013/12/21/laboratorio-estudar-2014-e-webanswers/
+22:14:29	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=642
+22:14:29	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=642 to http://cassio.olimpiadascientificas.com/2013/12/15/e-chega-o-fim-do-ano/
+22:14:44	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=638
+22:14:44	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=638 to http://cassio.olimpiadascientificas.com/2013/11/16/arriscando-com-novos-saltos-em-mente/
+22:15:10	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=634
+22:15:10	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=634 to http://cassio.olimpiadascientificas.com/2013/11/05/novembro-ja/
+22:15:20	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=121
+22:15:20	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=121 to http://cassio.olimpiadascientificas.com/2013/01/15/a-melhor-semana-de-exames/
+22:16:06	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/page/4/www.brilliant.org (from cassio.olimpiadascientificas.com/page/4/)
+22:16:11	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/page/4/www.coursera.org (from cassio.olimpiadascientificas.com/page/4/)
+22:16:22	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=511
+22:16:22	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=511 to http://cassio.olimpiadascientificas.com/2013/07/13/noticia-no-estudar-fora/
+22:16:27	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/2013/09/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/2013/09/)
+22:16:27	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/2013/02/www.brilliant.org (from cassio.olimpiadascientificas.com/2013/02/)
+22:16:27	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/2013/02/www.coursera.org (from cassio.olimpiadascientificas.com/2013/02/)
+22:16:32	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/category/olimpiadas/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/category/olimpiadas/)
+22:16:37	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/category/olimpiadas/cassio.olimpiadascientificas.com/midia (from cassio.olimpiadascientificas.com/category/olimpiadas/)
+22:16:37	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/category/passado/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/category/passado/)
+22:18:55	Warning: 	Retry after error -4 (No data (connection closed)) at link liara.olimpiadascientificas.com/author/liara/page/4/ (from liara.olimpiadascientificas.com/author/liara/)
+22:19:00	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=68
+22:19:00	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=68 to http://davic.olimpiadascientificas.com/2013/03/11/harvard-model-united-nations/
+22:19:00	Warning: 	Moved Permanently for lara.olimpiadascientificas.com/?p=1
+22:19:00	Warning: 	File has moved from lara.olimpiadascientificas.com/?p=1 to http://lara.olimpiadascientificas.com/2013/01/12/motivos/
+22:21:02	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=33
+22:21:02	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=33 to http://davic.olimpiadascientificas.com/material-de-estudo-quimica/
+22:21:02	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=65
+22:21:02	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=65 to http://davic.olimpiadascientificas.com/2013/01/17/reportagem-na-tv-diario/
+22:21:07	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=62
+22:21:07	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=62 to http://davic.olimpiadascientificas.com/2013/01/08/2009-e-minha-primeira-obq-parte-1/
+22:21:07	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=59
+22:21:07	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=59 to http://davic.olimpiadascientificas.com/2013/01/07/primeiro-post-do-ano/
+22:21:07	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=53
+22:21:07	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=53 to http://davic.olimpiadascientificas.com/2012/12/19/origens-parte-4/
+22:21:12	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=51
+22:21:12	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=51 to http://davic.olimpiadascientificas.com/2012/12/19/decepcoes/
+22:21:12	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=47
+22:21:12	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=47 to http://davic.olimpiadascientificas.com/2012/10/02/desculpa-e-justificativa/
+22:21:12	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=40
+22:21:12	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=40 to http://davic.olimpiadascientificas.com/2012/07/20/origens-parte-3/
+22:21:18	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=24
+22:21:18	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=24 to http://davic.olimpiadascientificas.com/2012/06/14/origem1/
+22:21:38	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=115
+22:21:38	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=115 to http://vitoria.olimpiadascientificas.com/2014/01/26/final-de-ferias-novo-ano-e-divagacoes/
+22:21:38	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=110
+22:21:38	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=110 to http://vitoria.olimpiadascientificas.com/2013/12/30/2013/
+22:21:43	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=103
+22:21:43	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=103 to http://vitoria.olimpiadascientificas.com/2013/12/19/pessoas/
+22:21:43	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=96
+22:21:43	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=96 to http://vitoria.olimpiadascientificas.com/2013/11/26/escolhas/
+22:21:43	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=84
+22:21:43	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=84 to http://vitoria.olimpiadascientificas.com/2013/10/26/final-de-semana/
+22:21:48	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=80
+22:21:48	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=80 to http://vitoria.olimpiadascientificas.com/2013/10/11/idas-e-vindas/
+22:21:48	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=77
+22:21:48	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=77 to http://vitoria.olimpiadascientificas.com/2013/09/19/resultados-provas-e-resultados/
+22:21:48	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=62
+22:21:48	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=62 to http://vitoria.olimpiadascientificas.com/2013/09/07/viagem-do-conhecimento-ii/
+22:21:53	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=59
+22:21:53	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=59 to http://vitoria.olimpiadascientificas.com/2013/08/22/viagem-do-conhecimento/
+22:21:53	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=46
+22:21:53	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=46 to http://vitoria.olimpiadascientificas.com/2013/08/15/ehh/
+22:21:53	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=42
+22:21:53	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=42 to http://vitoria.olimpiadascientificas.com/2013/07/30/presente/
+22:21:58	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=31
+22:21:58	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=31 to http://vitoria.olimpiadascientificas.com/2013/07/24/o-comeco-obmep/
+22:21:58	Warning: 	Moved Permanently for vitoria.olimpiadascientificas.com/?p=9
+22:21:58	Warning: 	File has moved from vitoria.olimpiadascientificas.com/?p=9 to http://vitoria.olimpiadascientificas.com/2013/07/16/carne-nova-pra-familia/
+22:21:58	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=84
+22:21:58	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=84 to http://leticia.olimpiadascientificas.com/2013/09/01/passei-2/
+22:22:03	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=80
+22:22:03	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=80 to http://leticia.olimpiadascientificas.com/2013/08/27/paradoxos/
+22:22:03	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=74
+22:22:03	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=74 to http://leticia.olimpiadascientificas.com/2013/08/20/4-dias-para-a-ijso/
+22:22:03	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=71
+22:22:03	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=71 to http://leticia.olimpiadascientificas.com/2013/08/11/agosto/
+22:22:13	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=66
+22:22:13	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=66 to http://leticia.olimpiadascientificas.com/2013/07/09/amigos/
+22:22:28	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=63
+22:22:28	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=63 to http://leticia.olimpiadascientificas.com/2013/06/23/63/
+22:22:33	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=60
+22:22:33	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=60 to http://leticia.olimpiadascientificas.com/2013/06/14/reformular/
+22:22:38	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=57
+22:22:38	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=57 to http://leticia.olimpiadascientificas.com/2013/06/06/bem-e-bom/
+22:22:38	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=12
+22:22:38	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=12 to http://leticia.olimpiadascientificas.com/2013/01/16/foco-2/
+22:22:38	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=53
+22:22:38	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=53 to http://leticia.olimpiadascientificas.com/2013/05/17/uma-semana/
+22:22:43	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=51
+22:22:43	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=51 to http://leticia.olimpiadascientificas.com/2013/05/01/passei/
+22:22:43	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=33
+22:22:43	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=33 to http://leticia.olimpiadascientificas.com/2013/03/30/fotos-premiacao-obf/
+22:22:43	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=44
+22:22:43	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=44 to http://leticia.olimpiadascientificas.com/2013/04/18/nota-de-corte/
+22:22:48	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=41
+22:22:48	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=41 to http://leticia.olimpiadascientificas.com/2013/04/06/1-semana-ate-a-obb/
+22:22:48	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=29
+22:22:48	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=29 to http://leticia.olimpiadascientificas.com/2013/03/08/desafios/
+22:22:48	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=25
+22:22:48	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=25 to http://leticia.olimpiadascientificas.com/2013/03/03/25/
+22:22:53	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=21
+22:22:53	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=21 to http://leticia.olimpiadascientificas.com/2013/02/24/nada-para-escrever/
+22:22:53	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=18
+22:22:53	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=18 to http://leticia.olimpiadascientificas.com/2013/02/01/quases/
+22:22:53	Warning: 	Moved Permanently for leticia.olimpiadascientificas.com/?p=6
+22:22:53	Warning: 	File has moved from leticia.olimpiadascientificas.com/?p=6 to http://leticia.olimpiadascientificas.com/2013/01/13/comeco-meio-mas-nao-um-fim/
+22:22:58	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=42
+22:22:58	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=42 to http://rob.olimpiadascientificas.com/2012/11/05/volta-a-rotina-de-olimpiadas/
+22:22:58	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=38
+22:22:58	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=38 to http://rob.olimpiadascientificas.com/2012/10/19/sem-nada/
+22:22:58	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=34
+22:22:58	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=34 to http://rob.olimpiadascientificas.com/2012/10/08/and-it-was-all-yellow/
+22:23:03	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=29
+22:23:03	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=29 to http://rob.olimpiadascientificas.com/2012/10/05/obf-amanha/
+22:23:03	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=24
+22:23:03	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=24 to http://rob.olimpiadascientificas.com/2012/10/04/2-dias-pra-obf-o-o/
+22:23:03	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=20
+22:23:03	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=20 to http://rob.olimpiadascientificas.com/2012/10/03/3-dias-para-a-obf/
+22:23:08	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=15
+22:23:08	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=15 to http://rob.olimpiadascientificas.com/2012/10/02/4-dias-para-a-obf/
+22:23:08	Warning: 	Moved Permanently for rob.olimpiadascientificas.com/?p=8
+22:23:08	Warning: 	File has moved from rob.olimpiadascientificas.com/?p=8 to http://rob.olimpiadascientificas.com/2012/10/01/ola-galera/
+22:23:13	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=597
+22:23:13	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=597 to http://cassio.olimpiadascientificas.com/2013/10/06/quantas-pessoas-ganham-com-um-premio-nobel/
+22:23:13	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=581
+22:23:13	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=581 to http://cassio.olimpiadascientificas.com/2013/09/23/semaninha-o/
+22:23:24	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=577
+22:23:24	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=577 to http://cassio.olimpiadascientificas.com/2013/09/10/damn-spiderwebs/
+22:23:29	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=556
+22:23:29	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=556 to http://cassio.olimpiadascientificas.com/2013/08/10/lembrancas-e-iypt-2014/
+22:23:39	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=517
+22:23:39	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=517 to http://cassio.olimpiadascientificas.com/2013/07/26/fim-de-julho/
+22:23:49	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=10
+22:23:49	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=10 to http://cassio.olimpiadascientificas.com/2013/01/01/resolucoes/
+22:23:54	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=53
+22:23:54	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=53 to http://cassio.olimpiadascientificas.com/2013/01/07/interesses/
+22:24:14	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=469
+22:24:14	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=469 to http://cassio.olimpiadascientificas.com/2013/06/09/desafios/
+22:24:29	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=69
+22:24:29	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=69 to http://cassio.olimpiadascientificas.com/2013/01/08/ordem/
+22:24:39	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=107
+22:24:39	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=107 to http://cassio.olimpiadascientificas.com/2013/01/13/transicoes/
+22:24:55	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/tag/2010/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/tag/2010/)
+22:25:00	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/tag/bosons-de-gauge/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/tag/bosons-de-gauge/)
+22:25:00	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/tag/fase/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/tag/fase/)
+22:25:00	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/tag/fight/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/tag/fight/)
+22:25:05	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/tag/iypt/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/tag/iypt/)
+22:25:05	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/tag/nacional/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/tag/nacional/)
+22:25:05	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/tag/paixao/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/tag/paixao/)
+22:25:10	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/tag/pf/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/tag/pf/)
+22:25:10	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/tag/quarta-dimensione-viator/iyptbr.wordpress.com (from cassio.olimpiadascientificas.com/tag/quarta-dimensione-viator/)
+22:25:10	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=674
+22:25:10	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=674 to http://cassio.olimpiadascientificas.com/2014/01/17/mas-havera-mesmo-obb-em-2014/
+22:25:45	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=666
+22:25:45	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=666 to http://cassio.olimpiadascientificas.com/2014/01/02/um-pouco-sobre-musica-pop-e-billboard/
+22:25:55	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=115
+22:25:55	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=115 to http://cassio.olimpiadascientificas.com/2013/01/14/futuro/
+22:26:05	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=139
+22:26:05	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=139 to http://cassio.olimpiadascientificas.com/2013/01/20/valorize-se/
+22:26:15	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=451
+22:26:15	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=451 to http://cassio.olimpiadascientificas.com/2013/06/02/reorganizar/
+22:26:26	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=433
+22:26:26	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=433 to http://cassio.olimpiadascientificas.com/2013/05/27/yay-novidades/
+22:26:36	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=421
+22:26:36	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=421 to http://cassio.olimpiadascientificas.com/2013/05/08/o-fator-iypt/
+22:26:46	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=402
+22:26:46	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=402 to http://cassio.olimpiadascientificas.com/2013/05/01/novas-midias/
+22:27:06	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=389
+22:27:06	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=389 to http://cassio.olimpiadascientificas.com/2013/04/26/deve-ser-amor/
+22:27:16	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=382
+22:27:16	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=382 to http://cassio.olimpiadascientificas.com/2013/04/21/altos-e-baixos/
+22:27:27	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=378
+22:27:27	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=378 to http://cassio.olimpiadascientificas.com/2013/04/14/semanas-de-provas/
+22:27:32	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=372
+22:27:32	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=372 to http://cassio.olimpiadascientificas.com/2013/03/31/tao-perto-do-fim/
+22:27:47	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=367
+22:27:47	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=367 to http://cassio.olimpiadascientificas.com/2013/03/12/the-deadline-effect/
+22:27:52	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=349
+22:27:52	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=349 to http://cassio.olimpiadascientificas.com/2013/03/05/pensamento-de-derrota/
+22:27:52	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=344
+22:27:52	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=344 to http://cassio.olimpiadascientificas.com/2013/02/25/o-ano-nao-comeca-hoje/
+22:27:57	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=320
+22:27:57	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=320 to http://cassio.olimpiadascientificas.com/2013/02/17/figurinhas-repetidas/
+22:28:02	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=317
+22:28:02	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=317 to http://cassio.olimpiadascientificas.com/2013/02/15/o-dia-x/
+22:28:12	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=311
+22:28:12	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=311 to http://cassio.olimpiadascientificas.com/2013/02/14/re-cap-1/
+22:28:12	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=299
+22:28:12	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=299 to http://cassio.olimpiadascientificas.com/2013/02/07/janeiro-fevereiro/
+22:28:12	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/2013/02/07/janeiro-fevereiro/www.brilliant.org (from cassio.olimpiadascientificas.com/2013/02/07/janeiro-fevereiro/)
+22:28:12	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/2013/02/07/janeiro-fevereiro/www.coursera.org (from cassio.olimpiadascientificas.com/2013/02/07/janeiro-fevereiro/)
+22:28:12	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=281
+22:28:12	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=281 to http://cassio.olimpiadascientificas.com/2013/02/04/time-out/
+22:28:12	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=240
+22:28:12	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=240 to http://cassio.olimpiadascientificas.com/2013/02/02/redacoes/
+22:28:12	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=230
+22:28:12	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=230 to http://cassio.olimpiadascientificas.com/2013/01/30/quietude/
+22:28:13	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=197
+22:28:13	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=197 to http://cassio.olimpiadascientificas.com/2013/01/29/artigo-publicado/
+22:28:13	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=191
+22:28:13	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=191 to http://cassio.olimpiadascientificas.com/2013/01/26/quando-os-resultados-nao-aparecem/
+22:28:13	Warning: 	Retry after error -4 (No data (connection closed)) at link cassio.olimpiadascientificas.com/tag/controle/ (from cassio.olimpiadascientificas.com/2013/01/26/quando-os-resultados-nao-aparecem/)
+22:28:13	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=169
+22:28:13	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=169 to http://cassio.olimpiadascientificas.com/2013/01/24/ajustes-tecnicos/
+22:28:13	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/?p=5
+22:28:13	Warning: 	File has moved from cassio.olimpiadascientificas.com/?p=5 to http://cassio.olimpiadascientificas.com/2012/12/31/e-o-blog-comeca/
+22:28:13	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/category/sem-categoria/page/3/www.brilliant.org (from cassio.olimpiadascientificas.com/category/sem-categoria/page/3/)
+22:28:13	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/category/sem-categoria/page/3/www.coursera.org (from cassio.olimpiadascientificas.com/category/sem-categoria/page/3/)
+22:28:13	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=1
+22:28:13	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=1 to http://davic.olimpiadascientificas.com/2012/06/11/ola-mundo/
+22:28:13	Warning: 	Moved Permanently for davic.olimpiadascientificas.com/?p=29
+22:28:13	Warning: 	File has moved from davic.olimpiadascientificas.com/?p=29 to http://davic.olimpiadascientificas.com/2012/07/05/origens-parte-2/
+22:28:13	Warning: 	Retry after error -4 (No data (connection closed)) at link cassio.olimpiadascientificas.com/tag/iypt-brasil/cassio.olimpiadascientificas.com/midia (from cassio.olimpiadascientificas.com/tag/iypt-brasil/)
+22:28:18	Warning: 	Moved Permanently for cassio.olimpiadascientificas.com/tag/iypt-brasil/cassio.olimpiadascientificas.com/midia
+22:28:18	Warning: 	File has moved from cassio.olimpiadascientificas.com/tag/iypt-brasil/cassio.olimpiadascientificas.com/midia to http://cassio.olimpiadascientificas.com/midia/
+22:28:18	Warning: 	engine: warning: temporary file /home/ivanaf/websites/ivan.olimpiadascientificas.noupload/estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais.png.tmp already exists
+22:28:23	Warning: 	engine: warning: temporary file /home/ivanaf/websites/ivan.olimpiadascientificas.noupload/estudo.olimpiadascientificas.com/wp-content/plugins/jetpack/css/jetpackf3c8.css.tmp already exists
+22:28:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): estudo.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/arrows.png
+22:28:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): estudo.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/arrows-2x.png
+22:28:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): estudo.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png
+22:29:10	Warning: 	HTML file (1082 bytes) retransferred due to lack of cache: estudo.olimpiadascientificas.com/wp-json/
+22:29:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/wp-includes/wlwmanifest.xml
+22:29:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/06/tea-time-in-the-garden.jpg
+22:29:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/04/DSCF8292.jpg
+22:29:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/04/DSC00092.jpg
+22:30:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2014/04/DSCF8349.jpg
+22:30:12	Warning: 	HTML file (1037 bytes) retransferred due to lack of cache: cassio.olimpiadascientificas.com/wp-json/
+22:30:17	Warning: 	HTML file (1064 bytes) retransferred due to lack of cache: marcio.olimpiadascientificas.com/wp-json/
+22:30:17	Warning: 	HTML file (1059 bytes) retransferred due to lack of cache: liara.olimpiadascientificas.com/wp-json/
+22:30:22	Warning: 	HTML file (1086 bytes) retransferred due to lack of cache: davic.olimpiadascientificas.com/wp-json/
+22:30:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/bico-06.jpg
+22:30:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/zurichsee-2.jpg
+22:30:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/files/2012/07/IMG_1102.jpg
+22:30:57	Warning: 	engine: warning: temporary file /home/ivanaf/websites/ivan.olimpiadascientificas.noupload/lara.olimpiadascientificas.com/wp-content/themes/blogsoc/style.css.tmp already exists
+22:30:57	Warning: 	engine: warning: temporary file /home/ivanaf/websites/ivan.olimpiadascientificas.noupload/lara.olimpiadascientificas.com/wp-content/plugins/wp-paginate/wp-paginatee7f0.css.tmp already exists
+22:30:57	Warning: 	HTML file (1075 bytes) retransferred due to lack of cache: lara.olimpiadascientificas.com/wp-json/
+22:31:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lara.olimpiadascientificas.com/wp-includes/wlwmanifest.xml
+22:31:08	Warning: 	engine: warning: temporary file /home/ivanaf/websites/ivan.olimpiadascientificas.noupload/lara.olimpiadascientificas.com/wp-content/themes/blogsoc/css/default.css.tmp already exists
+22:31:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): vitoria.olimpiadascientificas.com/files/2013/09/SAM_1293.jpg
+22:31:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/files/2012/08/DSC09873.jpg
+22:31:22	Warning: 	engine: warning: temporary file /home/ivanaf/websites/ivan.olimpiadascientificas.noupload/estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css.tmp already exists
+22:31:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais.png
+22:31:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais_hover.png
+22:31:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais.png
+22:32:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais_hover.png
+22:32:08	Warning: 	engine: warning: temporary file /home/ivanaf/websites/ivan.olimpiadascientificas.noupload/vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css.tmp already exists
+22:32:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): leticia.olimpiadascientificas.com/wp-content/plugins/network-latest-posts/img/calendar_icon.png
+22:32:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais.png
+22:32:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais_hover.png
+22:32:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais.png
+22:32:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): rob.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais_hover.png
+22:33:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais.png
+22:33:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais_hover.png
+22:33:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais.png
+22:33:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais_hover.png
+22:33:44	Error: 	"Not Found" (404) at link cassio.olimpiadascientificas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1 (from cassio.olimpiadascientificas.com/)
+22:34:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais.png
+22:34:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais_hover.png
+22:34:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais.png
+22:34:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais_hover.png
+22:34:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/mediaelement/bigplay.png
+22:34:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/mediaelement/background.png
+22:34:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/mediaelement/loading.gif
+22:34:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/mediaelement/controls.png
+22:35:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/mediaelement/jumpforward.png
+22:35:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-includes/js/mediaelement/skipback.png
+22:35:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/arrows.png
+22:35:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/arrows-2x.png
+22:35:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png
+22:36:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais.png
+22:36:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais_hover.png
+22:36:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais.png
+22:36:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais_hover.png
+22:36:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/arrows.png
+22:36:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/arrows-2x.png
+22:37:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png
+22:37:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): liara.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/shortcodes/images/collapse.png
+22:37:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais.png
+22:38:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais_hover.png
+22:38:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais.png
+22:38:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): davic.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais_hover.png
+22:38:17	Error: 	"Forbidden" (403) at link https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/480697_512053732172486_1886737346_n.jpg (from davic.olimpiadascientificas.com/)
+22:38:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lara.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais.png
+22:38:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lara.olimpiadascientificas.com/wp-content/themes/blogsoc/images/nacionais_hover.png
+22:38:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lara.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais.png
+22:38:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lara.olimpiadascientificas.com/wp-content/themes/blogsoc/images/internacionais_hover.png
+22:39:03	Warning: 	HTML file (15677 bytes) retransferred due to lack of cache: lara.olimpiadascientificas.com/2013/01/
+22:39:08	Warning: 	HTML file (21596 bytes) retransferred due to lack of cache: estudo.olimpiadascientificas.com/tag/e-vai/
+22:39:23	Warning: 	Retry after error -4 (No data (connection closed)) at link cassio.olimpiadascientificas.com/files/2013/06/Sudoku2.png (from cassio.olimpiadascientificas.com/page/2/)
+22:40:45	Error: 	"Service Unavailable" (503) at link estudo.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite.png?5 (from estudo.olimpiadascientificas.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4)
+22:40:45	Error: 	"Service Unavailable" (503) at link estudo.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite-2x.png?5 (from estudo.olimpiadascientificas.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4)
+22:40:45	Error: 	"Not Found" (404) at link estudo.olimpiadascientificas.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from s.gravatar.com/js/gprofiles.js?ver=2016Novaa)
+22:40:45	Error: 	"Not Found" (404) at link estudo.olimpiadascientificas.com/g.gif (from stats.wp.com/e-201647.js)
+22:40:45	Error: 	"Not Found" (404) at link estudo.olimpiadascientificas.com/c.gif (from stats.wp.com/e-201647.js)
+22:41:36	Error: 	"Service Unavailable" (503) at link marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite.png?5 (from marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4)
+22:41:36	Error: 	"Service Unavailable" (503) at link marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite-2x.png?5 (from marcio.olimpiadascientificas.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4)
+22:41:46	Error: 	"Service Unavailable" (503) at link liara.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite.png?5 (from liara.olimpiadascientificas.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4)
+22:41:46	Error: 	"Service Unavailable" (503) at link liara.olimpiadascientificas.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite-2x.png?5 (from liara.olimpiadascientificas.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4)
+22:42:06	Error: 	"Not Found" (404) at link estudo.olimpiadascientificas.com/2015/03/08/hmmt-uma-olimpiada-de-matematica-desafiadora-divertida-diferente/g.gif (from stats.wp.com/e-201646.js)
+22:42:06	Error: 	"Not Found" (404) at link estudo.olimpiadascientificas.com/2015/03/08/hmmt-uma-olimpiada-de-matematica-desafiadora-divertida-diferente/c.gif (from stats.wp.com/e-201646.js)
+22:42:06	Error: 	"Not Found" (404) at link marcio.olimpiadascientificas.com/2013/05/20/spf-2013/g.gif (from stats.wp.com/e-201645.js)
+22:42:06	Error: 	"Not Found" (404) at link marcio.olimpiadascientificas.com/2013/05/20/spf-2013/c.gif (from stats.wp.com/e-201645.js)
+22:42:06	Error: 	"Not Found" (404) at link marcio.olimpiadascientificas.com/2012/10/23/ola-novamente/g.gif (from stats.wp.com/e-201641.js)
+22:42:06	Error: 	"Not Found" (404) at link marcio.olimpiadascientificas.com/2012/10/23/ola-novamente/c.gif (from stats.wp.com/e-201641.js)
+22:42:06	Error: 	"Not Found" (404) at link marcio.olimpiadascientificas.com/tag/ferias/g.gif (from stats.wp.com/e-201638.js)
+22:42:06	Error: 	"Not Found" (404) at link marcio.olimpiadascientificas.com/tag/ferias/c.gif (from stats.wp.com/e-201638.js)
+22:42:06	Error: 	"Not Found" (404) at link marcio.olimpiadascientificas.com/2013/06/01/g.gif (from stats.wp.com/e-201632.js)
+22:42:06	Error: 	"Not Found" (404) at link marcio.olimpiadascientificas.com/2013/06/01/c.gif (from stats.wp.com/e-201632.js)
+22:42:06	Error: 	"Not Found" (404) at link marcio.olimpiadascientificas.com/tag/fisica/g.gif (from stats.wp.com/e-201639.js)
+22:42:06	Error: 	"Not Found" (404) at link marcio.olimpiadascientificas.com/tag/fisica/c.gif (from stats.wp.com/e-201639.js)
+22:42:06	Error: 	"Not Found" (404) at link liara.olimpiadascientificas.com/2012/08/12/voltando/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from s.gravatar.com/js/gprofiles.js?ver=2016Sepaa)
+22:42:06	Error: 	"Not Found" (404) at link liara.olimpiadascientificas.com/2012/08/12/voltando/g.gif (from stats.wp.com/e-201636.js)
+22:42:06	Error: 	"Not Found" (404) at link liara.olimpiadascientificas.com/2012/08/12/voltando/c.gif (from stats.wp.com/e-201636.js)
+22:42:06	Error: 	"Not Found" (404) at link liara.olimpiadascientificas.com/2012/06/21/experimentos-e-noticias/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from s.gravatar.com/js/gprofiles.js?ver=2016Octaa)
+22:42:06	Error: 	"Not Found" (404) at link liara.olimpiadascientificas.com/2012/06/21/experimentos-e-noticias/g.gif (from stats.wp.com/e-201640.js)
+22:42:06	Error: 	"Not Found" (404) at link liara.olimpiadascientificas.com/2012/06/21/experimentos-e-noticias/c.gif (from stats.wp.com/e-201640.js)
+22:42:06	Warning: 	Retry after error 500 (Internal Server Error) at link estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:06	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:06	Warning: 	Retry after error 500 (Internal Server Error) at link vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:06	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:06	Warning: 	Retry after error 500 (Internal Server Error) at link leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:06	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:11	Warning: 	Retry after error 500 (Internal Server Error) at link rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:11	Warning: 	HTML file (765 bytes) retransferred due to lack of cache: rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:11	Warning: 	Retry after error 500 (Internal Server Error) at link cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:11	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:11	Warning: 	Retry after error 500 (Internal Server Error) at link marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:11	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:17	Warning: 	Retry after error 500 (Internal Server Error) at link liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:17	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:17	Warning: 	Retry after error 500 (Internal Server Error) at link davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:17	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:17	Warning: 	Retry after error 500 (Internal Server Error) at link lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:17	Warning: 	HTML file (766 bytes) retransferred due to lack of cache: lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:22	Warning: 	Retry after error 500 (Internal Server Error) at link estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:22	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:22	Warning: 	Retry after error 500 (Internal Server Error) at link vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:22	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:22	Warning: 	Retry after error 500 (Internal Server Error) at link leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:22	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:27	Warning: 	Retry after error 500 (Internal Server Error) at link rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:27	Warning: 	HTML file (765 bytes) retransferred due to lack of cache: rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:27	Warning: 	Retry after error 500 (Internal Server Error) at link cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:27	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:27	Warning: 	Retry after error 500 (Internal Server Error) at link marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:27	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:32	Warning: 	Retry after error 500 (Internal Server Error) at link liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:32	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:32	Warning: 	Retry after error 500 (Internal Server Error) at link davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:32	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:32	Warning: 	Retry after error 500 (Internal Server Error) at link lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:32	Warning: 	HTML file (766 bytes) retransferred due to lack of cache: lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:38	Warning: 	Retry after error 500 (Internal Server Error) at link estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:38	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:38	Warning: 	Retry after error 500 (Internal Server Error) at link vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:38	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:38	Warning: 	Retry after error 500 (Internal Server Error) at link leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:38	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:43	Warning: 	Retry after error 500 (Internal Server Error) at link rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:43	Warning: 	HTML file (765 bytes) retransferred due to lack of cache: rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:43	Warning: 	Retry after error 500 (Internal Server Error) at link cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:43	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:43	Warning: 	Retry after error 500 (Internal Server Error) at link marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:43	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:48	Warning: 	Retry after error 500 (Internal Server Error) at link liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:48	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:48	Warning: 	Retry after error 500 (Internal Server Error) at link davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:48	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:48	Warning: 	Retry after error 500 (Internal Server Error) at link lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:48	Warning: 	HTML file (766 bytes) retransferred due to lack of cache: lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png
+22:42:53	Error: 	"Internal Server Error" (500) after 3 retries at link estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from estudo.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:53	Error: 	"Internal Server Error" (500) after 3 retries at link vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from vitoria.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:53	Error: 	"Internal Server Error" (500) after 3 retries at link leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from leticia.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:53	Error: 	"Internal Server Error" (500) after 3 retries at link rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from rob.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:53	Error: 	"Internal Server Error" (500) after 3 retries at link cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from cassio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:53	Error: 	"Internal Server Error" (500) after 3 retries at link marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from marcio.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:53	Error: 	"Internal Server Error" (500) after 3 retries at link liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from liara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:53	Error: 	"Internal Server Error" (500) after 3 retries at link davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from davic.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+22:42:53	Error: 	"Internal Server Error" (500) after 3 retries at link lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/images/shadow.png (from lara.olimpiadascientificas.com/wp-content/themes/blogsoc/includes/css/superfish.css)
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 hours 13 minutes 45 seconds : 1717 links scanned, 1469 files written (171757246 bytes overall), 1303 files updated [94325079 bytes received at 21316 bytes/sec], 115002066 bytes transferred using HTTP compression in 1513 files, ratio 81%, 4.8 requests per connection
+(67 errors, 631 warnings, 0 messages)

@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.iplayif.com	TRUE	/	FALSE	1999999999	__cfduid	d2291b0f41d974a2cc47bb30f97cdf1c21480019785
+ivan.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	akm_mobile	false
+ivan.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480035268+18.111.41.179
+barbara.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480036540+18.111.41.179
+vitoria.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480043976+18.111.41.179
+leticia.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480044047+18.111.41.179
+rob.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480044063+18.111.41.179
+cassio.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480044612+18.111.41.179
+marcio.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480044617+18.111.41.179
+davic.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480044623+18.111.41.179
+lara.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480044658+18.111.41.179
+estudo.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480044728+18.111.41.179
+liara.olimpiadascientificas.com	TRUE	/	FALSE	1999999999	bb2_screener_	1480045225+18.111.41.179
+
